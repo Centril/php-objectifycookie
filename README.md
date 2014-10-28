@@ -65,7 +65,7 @@ cookie() -> key	=	new objectifycookie\Injector( $config, $value );
 // Where $value is the value you want set, be it a scalar or a list(array)
 ```
 
-## Parent: (Applies to Component})
+## Parent: (Applies to Component)
 
 You can get the parent component (that is the owning array|set) by calling:
 ```php
